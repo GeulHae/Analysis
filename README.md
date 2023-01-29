@@ -6,7 +6,7 @@
 ![serverless](https://img.shields.io/badge/Server-➤➣➣➣➣-64BC4B?style=plastic&logo=serverless&logoColor=white)      ![apple](https://img.shields.io/badge/ios-➤➣➣➣➣-E8E8E8?style=plastic&logo=apple&logoColor=white)
 
 
-> ✈️ My hometown is Suwon, Gyeonggi-do in Korea____
+> ✈️ My hometown is Suwon, Gyeonggi-do in Korea  
 > 🎧 I majored in Digital Music, Computer Graphics
 
 ### Experience
